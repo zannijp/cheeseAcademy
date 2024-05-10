@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-https://zannijp.github.io/cheeseAcademy/
+[https://zannijp.github.io/cheeseAcademy/](https://zannijp.github.io/kadai00_cheese/)
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
